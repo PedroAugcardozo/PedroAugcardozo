@@ -1,16 +1,18 @@
-## Hi there 👋
+### Eu sou o Pedro Augusto!
 
-<!--
-**PedroAugcardozo/PedroAugcardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Sistemas de Informação na FIPP/UNOESTE.
+🚀 Apaixonado por tecnologia, com interesse especial em **automação** e **web scraping**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroAugcardozo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Pedro" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugcardozo&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="165" />
+</div>
+
+---
+
+### 🛠️ Principais Tecnologias que utilizo
+* Python | TypeScript | JavaScript | C++
