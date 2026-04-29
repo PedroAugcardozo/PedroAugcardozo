@@ -13,6 +13,8 @@ Aqui posto projetos váriados pessoais e academicos
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugcardozo&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="180" />
 </div>
 
+---
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PedroAugcardozo&theme=dracula&column=4&margin-w=15" alt="Troféus do Pedro" />
 </div>
