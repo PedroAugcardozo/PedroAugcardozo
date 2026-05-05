@@ -9,7 +9,6 @@ Aqui posto projetos váriados pessoais e academicos
 ### Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroAugcardozo&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do Pedro" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugcardozo&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="180" />
 </div>
 
