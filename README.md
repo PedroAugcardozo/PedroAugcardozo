@@ -9,7 +9,8 @@ Aqui posto projetos váriados pessoais e academicos
 ### Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugcardozo&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="180" />
+  <!-- Novo gráfico: Goyal-Aman Stats (Mais estável e rápido que o original) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroAugcardozo&layout=compact&theme=dracula&count_private=true&include_all_commits=true" alt="Linguagens mais usadas" height="180" />
 </div>
 
 ---
